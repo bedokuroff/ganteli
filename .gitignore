@@ -12,3 +12,7 @@ pom.xml
 
 # IntelliJ IDEA stuff
 .idea/
+*.iml
+
+# mac os specific
+.DS_Store
